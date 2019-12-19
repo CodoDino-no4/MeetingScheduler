@@ -1,0 +1,18 @@
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\bin\Debug\Meeting_CandM.exe.config
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\bin\Debug\Meeting_CandM.exe
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\bin\Debug\Meeting_CandM.pdb
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.csprojAssemblyReference.cache
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.Form1.resources
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.Properties.Resources.resources
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.csproj.GenerateResource.cache
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.exe
+C:\Users\Alz\source\repos\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.pdb
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\bin\Debug\Meeting_CandM.exe.config
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\bin\Debug\Meeting_CandM.exe
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\bin\Debug\Meeting_CandM.pdb
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.csprojAssemblyReference.cache
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.Form1.resources
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.Properties.Resources.resources
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.csproj.GenerateResource.cache
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.exe
+C:\Users\Alz\Documents\Uni\Concepts and Methods\Assignment1\Meeting_CandM\Meeting_CandM\obj\Debug\Meeting_CandM.pdb

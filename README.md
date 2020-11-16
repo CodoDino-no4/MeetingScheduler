@@ -1,1 +1,1 @@
-# meeting_scheduler
+# MeetingScheduler
